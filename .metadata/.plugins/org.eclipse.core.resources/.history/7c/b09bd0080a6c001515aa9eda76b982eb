@@ -1,0 +1,65 @@
+package td4;
+
+/**
+ * 
+ * @author fcamps
+ * 
+ */
+class buffer1 {
+	Object full = new Object();
+	Object empty = new Object();
+	Object data = null;
+
+	public void push(Object d) {
+		synchronized (full) {
+			try {
+				if (data != null)
+					full.wait();
+			} catch (Exception e) {
+				System.out.println(e + "from push-wait");
+				return;
+			}
+		}
+		data = d;
+		System.out.println("Pushed " + data);
+		synchronized (empty) {
+			try {
+				if (data != null)
+					empty.notify();
+			} catch (Exception e) {
+				System.out.println(e + " from push-notify");
+				return;
+			}
+		}
+	}
+
+	public Object pop() {
+		synchronized (empty) {
+			try {
+				if (data == null)
+					empty.wait();
+			} catch (Exception e) {
+				System.out.println(e + "from pop-wait");
+				return null;
+			}
+		}
+		Object o = data;
+		System.out.println("Read " + o);
+		data = null;
+		synchronized (full) {
+			try {
+				if (data == null)
+					full.notify();
+			} catch (Exception e) {
+				System.out.println(e + "from pop-notify");
+				return null;
+			}
+		}
+		return o;
+	}
+	
+	class Prod extends Thread{
+		
+		
+	}
+}

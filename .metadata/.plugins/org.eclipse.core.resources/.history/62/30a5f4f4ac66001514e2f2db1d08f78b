@@ -1,0 +1,21 @@
+package exemplesCours;
+
+import java.util.concurrent.Semaphore;
+
+public class Ex5_PoolRessources {
+
+	private Semaphore sem;
+
+	public Ex5_PoolRessources(int nb) {
+		sem = new Semaphore(nb);
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

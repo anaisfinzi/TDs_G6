@@ -1,0 +1,26 @@
+package exemplesCours;
+
+import java.util.concurrent.Semaphore;
+
+public class Ex4_MyThread implements Runnable {
+	protected final Semaphore mutex = new Semaphore(1);
+
+	public void run() {
+		try {
+			mutex.acquire();
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} // protocole d’entree
+		System.out.println("section critique");
+		mutex.release(); //protocole de sortie
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+}

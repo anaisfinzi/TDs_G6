@@ -1,0 +1,68 @@
+/**
+ * 
+ */
+package td1;
+
+import java.awt.Component;
+import java.util.ArrayList;
+import java.util.concurrent.atomic.AtomicBoolean;
+
+/**
+ * @author fcamps
+ *
+ * Un executable qui anime une balle rebondissante.
+*/
+class BallRunnable implements Runnable
+{
+	private Ball ball;
+	private Component component;
+	public static final int STEPS = 5000;
+	public static final int DELAY = 5;
+
+	@SuppressWarnings("unused")
+	private ArrayList<Ball> balls = new ArrayList<Ball>();
+		
+	AtomicBoolean isDrawingBall= new AtomicBoolean(true);
+		
+	/**
+   Construit l'executable.
+   @aBall la balle qui doit rebondir
+   @aPanel le composant dans lequel la balle rebondit
+	 */
+	public BallRunnable(Ball aBall, Component aComponent)
+	{
+		ball = aBall;
+		component = aComponent;
+	}
+
+	/**
+	 * 
+	 */
+	public void stopBall()
+	{
+		isDrawingBall.set(false);
+	}
+	
+	public void run()
+	{
+		try
+		{
+			// TODO: placer une condition d'arret illimite
+			while(isDrawingBall.get())
+			{
+				//test si la balle peut etre deplacee
+				
+				ball.move(component.getBounds());				
+				component.repaint();
+				Thread.sleep(DELAY);
+			}
+		}
+		catch (InterruptedException e)
+		{      
+			//TODO: faire un traitement ici
+			e.printStackTrace();
+		}
+	}
+
+	
+}

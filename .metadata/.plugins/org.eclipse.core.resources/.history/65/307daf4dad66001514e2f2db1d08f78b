@@ -1,0 +1,44 @@
+package exemplesCours;
+
+public class Ex5_Thread extends Thread {
+	Ex5_PoolRessources myRessource = new Ex5_PoolRessources(5);
+
+	public void run() {
+		while (true) {
+			// acquisition de la ressource
+			myRessource.allouer();
+			// utilisation de la ressource
+			System.out.println("allocation ");
+			// libération de la ressource
+			myRessource.rendre();
+		}
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		int n = 10;
+		Ex1_1[] exo11s = new Ex1_1[n];
+		for (int i = 0; i < n; i++) {
+			exo11s[i] = new Ex1_1();
+			exo11s[i].start();
+		}
+		try {
+			for (int i = 0; i < n; i++) {
+				//on attend la fin de la thread i
+				//ici cela ne doit jamais arriver à cause de la boucle while(true) et de la section critique
+				exo11s[i].join();
+			}
+			System.out.println("toutes les threads sont terminées");
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+
+		}
+		
+	}
+
+	}
+
+}

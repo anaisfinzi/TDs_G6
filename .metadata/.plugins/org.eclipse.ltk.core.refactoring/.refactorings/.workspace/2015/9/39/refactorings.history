@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;TD_ENSICA_2014_eleve&apos;" deleteContents="true" description="Delete resource &apos;TD_ENSICA_2014_eleve&apos;" element1="/TD_ENSICA_2014_eleve" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1443016539218"/>
+</session>

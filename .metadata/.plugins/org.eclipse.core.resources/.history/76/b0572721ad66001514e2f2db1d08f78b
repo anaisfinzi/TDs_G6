@@ -1,0 +1,18 @@
+package exemplesCours;
+
+public class Ex5_Thread extends Thread {
+
+	public void run(){
+		
+	}
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		while(true) {
+			// acquisition de la ressource
+			myRessource.allouer();
+
+	}
+
+}

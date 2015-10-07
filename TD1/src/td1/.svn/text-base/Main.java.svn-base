@@ -1,0 +1,19 @@
+package td1;
+
+
+import javax.swing.JFrame;
+
+
+/**
+   Presente une balle rebondissante animee.
+ */
+public class Main
+{
+	public static void main(String[] args)
+	{
+		JFrame frame = new BounceFrame();
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.setVisible(true);
+	}
+}
+

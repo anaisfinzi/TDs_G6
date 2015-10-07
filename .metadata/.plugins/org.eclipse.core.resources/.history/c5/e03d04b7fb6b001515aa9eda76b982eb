@@ -1,0 +1,13 @@
+package td4;
+
+public class TransferRunnable {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

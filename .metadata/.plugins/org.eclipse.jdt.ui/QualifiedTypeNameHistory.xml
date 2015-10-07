@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="EX1Compteurs"/>
+<fullyQualifiedTypeName name="EX2P0"/>
+<fullyQualifiedTypeName name="EX2P1"/>
+<fullyQualifiedTypeName name="EX2"/>
+<fullyQualifiedTypeName name="ThreadVirement"/>
+<fullyQualifiedTypeName name="CompteBancaire"/>
+<fullyQualifiedTypeName name="Banque_virement"/>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.ReentrantLock"/>
+<fullyQualifiedTypeName name="EX3Thread"/>
+<fullyQualifiedTypeName name="td2.Exo1monThread"/>
+<fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicBoolean"/>
+<fullyQualifiedTypeName name="td2.Exo1monThread_syn"/>
+<fullyQualifiedTypeName name="td2.Exo2_1"/>
+<fullyQualifiedTypeName name="td2.Exo3_1"/>
+<fullyQualifiedTypeName name="td2.Exo4_3"/>
+<fullyQualifiedTypeName name="td2.Exo4_3.Object1"/>
+<fullyQualifiedTypeName name="td2.Compteur"/>
+<fullyQualifiedTypeName name="exemplesCours.Transfert"/>
+<fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicInteger"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="exemplesCours.Ex3_Thread"/>
+<fullyQualifiedTypeName name="javax.swing.BoundedRangeModel"/>
+<fullyQualifiedTypeName name="exemplesCours.Ex3_BoundedBuffer"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Semaphore"/>
+<fullyQualifiedTypeName name="td4.buffer1"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="td4.prod_cons.buffer1.Prod"/>
+<fullyQualifiedTypeName name="td4.prod_cons.buffer1"/>
+<fullyQualifiedTypeName name="td4.prod_cons.buffer1.Cons"/>
+</qualifiedTypeNameHistroy>
