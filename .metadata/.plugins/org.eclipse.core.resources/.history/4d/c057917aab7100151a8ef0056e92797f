@@ -1,0 +1,13 @@
+package td7.exo.etudiant;
+
+public class Exo2_BI {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,24 @@
+package exemples;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.Timer;
+
+
+
+
+public class MyTimer2 {
+final int counter=0;
+	public static void main(String[] args) {
+		final int DELAY = 1000;
+		ActionListener listener = new ActionListener() {
+			public void actionPerformed(ActionEvent event) {
+				counter++;
+			}
+		};
+		Timer t = new Timer(DELAY, listener);
+		System.out.println("bfr");
+		t.start();
+	}
+}

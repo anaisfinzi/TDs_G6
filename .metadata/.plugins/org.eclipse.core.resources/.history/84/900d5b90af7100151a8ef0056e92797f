@@ -1,0 +1,34 @@
+package td;
+
+/**
+ * 
+ */
+
+import java.util.concurrent.Semaphore;
+
+/**
+ * @author fcamps
+ * 
+ */
+public class FramedBuffer implements Buffer {
+	private Semaphore nbCase;
+	private Semaphore nbmess;
+
+	private Object[] tampon;
+	private int curseurEn = 0, curseurHors = 0;
+
+	public FramedBuffer(int maxMessage) {
+		int N=10;
+		
+	}
+
+	public void deposer(Object message) {
+
+		tampon[curseurEn] = message;
+	}
+
+	public Object prelever() {
+		return tampon[curseurHors];
+	}
+
+}

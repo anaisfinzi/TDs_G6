@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="19" version="2.0">
+<workbench progressCount="18" version="2.0">
 <workbenchAdvisor/>
 <window height="767" maximized="true" width="1018" x="494" y="24">
 <fastViewData fastViewLocation="1024"/>
@@ -38,46 +38,21 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SynchBankTest2.java" partName="SynchBankTest2.java" path="/home/anais/workspace2A/TD4/src/td4/SynchBankTest2.java" title="SynchBankTest2.java" tooltip="TD4/src/td4/SynchBankTest2.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD4/src/td4/SynchBankTest2.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="242" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFramedBuffer2.java" partName="TestFramedBuffer2.java" path="/home/anais/workspace2A/TD6/src/td/TestFramedBuffer2.java" title="TestFramedBuffer2.java" tooltip="TD6/src/td/TestFramedBuffer2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD6/src/td/TestFramedBuffer2.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="199" selectionTopPixel="104"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SynchBankTest2_2.java" partName="SynchBankTest2_2.java" path="/home/anais/workspace2A/TD4/src/ex1/SynchBankTest2_2.java" title="SynchBankTest2_2.java" tooltip="TD4/src/ex1/SynchBankTest2_2.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD4/src/ex1/SynchBankTest2_2.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="496" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FramedBuffer2.java" partName="FramedBuffer2.java" path="/home/anais/workspace2A/TD6/src/td/FramedBuffer2.java" title="FramedBuffer2.java" tooltip="TD6/src/td/FramedBuffer2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD6/src/td/FramedBuffer2.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="756" selectionTopPixel="497"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Bank.java" partName="Bank.java" path="/home/anais/workspace2A/TD4/src/ex1/Bank.java" title="Bank.java" tooltip="TD4/src/ex1/Bank.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD4/src/ex1/Bank.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="127" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TransferRunnable.java" partName="TransferRunnable.java" path="/home/anais/workspace2A/TD4/src/ex1/TransferRunnable.java" title="TransferRunnable.java" tooltip="TD4/src/ex1/TransferRunnable.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD4/src/ex1/TransferRunnable.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="559" selectionTopPixel="118"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="prod_cons.java" partName="prod_cons.java" path="/home/anais/workspace2A/TD4/src/td4/prod_cons.java" title="prod_cons.java" tooltip="TD4/src/td4/prod_cons.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD4/src/td4/prod_cons.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="1" selectionOffset="1408" selectionTopPixel="990"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Allocateur.java" partName="Allocateur.java" path="/home/anais/workspace2A/TD4/src/td4/Allocateur.java" title="Allocateur.java" tooltip="TD4/src/td4/Allocateur.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD4/src/td4/Allocateur.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="255" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestAllocateur.java" partName="TestAllocateur.java" path="/home/anais/workspace2A/TD4/src/td4_correction/TestAllocateur.java" title="TestAllocateur.java" tooltip="TD4/src/td4_correction/TestAllocateur.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD4/src/td4_correction/TestAllocateur.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exo5.java" partName="Exo5.java" path="/home/anais/workspace2A/TD4/src/td4_correction/Exo5.java" title="Exo5.java" tooltip="TD4/src/td4_correction/Exo5.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD4/src/td4_correction/Exo5.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="267" selectionTopPixel="1768"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Buffer2.java" partName="Buffer2.java" path="/home/anais/workspace2A/TD6/src/td/Buffer2.java" title="Buffer2.java" tooltip="TD6/src/td/Buffer2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD6/src/td/Buffer2.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="70" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -329,7 +304,7 @@
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.19088937" ratioLeft="352" ratioRight="1492" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.8793456" ratioLeft="860" ratioRight="118" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="bottom" ratio="0.62167686" ratioLeft="608" ratioRight="370" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
@@ -480,164 +455,164 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD4/src/td4/SynchBankTest2.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD4/src/ex1/SynchBankTest2_2.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD4/src/ex1/Bank.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD4/src/ex1/TransferRunnable.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD4/src/td4/prod_cons.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD4/src/td4/Allocateur.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD4/src/td4_correction/TestAllocateur.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD4/src/td4_correction/Exo5.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/Buffer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/FramedBuffer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/TestFramedBuffer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/FramedBuffer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/TestFramedBuffer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/TestFramedBuffer2.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/FramedBuffer2.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/Buffer2.java"/>
 </editors>
-<item historyLabel="SynchBankTest2_2.java" index="1">
-<position info="not_deleted" x="212" y="0"/>
+<item historyLabel="FramedBuffer.java" index="1">
+<position info="not_deleted" x="96" y="0"/>
 </item>
-<item historyLabel="Bank.java" index="2">
-<position info="not_deleted" x="254" y="0"/>
+<item historyLabel="TestFramedBuffer.java" index="2">
+<position info="not_deleted" x="0" y="12"/>
 </item>
-<item historyLabel="TransferRunnable.java" index="3">
-<position info="not_deleted" x="559" y="0"/>
+<item historyLabel="FramedBuffer.java" index="1">
+<position info="not_deleted" x="96" y="0"/>
 </item>
-<item historyLabel="SynchBankTest2.java" index="0">
-<position info="not_deleted" x="423" y="0"/>
+<item historyLabel="Buffer.java" index="0">
+<position/>
 </item>
-<item historyLabel="SynchBankTest2_2.java" index="1">
-<position info="not_deleted" x="212" y="0"/>
-</item>
-<item historyLabel="Bank.java" index="2">
-<position info="not_deleted" x="254" y="0"/>
-</item>
-<item historyLabel="TransferRunnable.java" index="3">
-<position info="not_deleted" x="559" y="0"/>
-</item>
-<item historyLabel="Bank.java" index="2">
-<position info="not_deleted" x="254" y="0"/>
-</item>
-<item historyLabel="SynchBankTest2_2.java" index="1">
-<position info="not_deleted" x="212" y="0"/>
-</item>
-<item historyLabel="Bank.java" index="2">
-<position info="not_deleted" x="254" y="0"/>
-</item>
-<item historyLabel="SynchBankTest2_2.java" index="1">
-<position info="not_deleted" x="212" y="0"/>
-</item>
-<item historyLabel="Bank.java" index="2">
-<position info="not_deleted" x="127" y="0"/>
-</item>
-<item historyLabel="SynchBankTest2_2.java" index="1">
-<position info="not_deleted" x="212" y="0"/>
-</item>
-<item historyLabel="Bank.java" index="2">
-<position info="not_deleted" x="127" y="0"/>
-</item>
-<item historyLabel="TransferRunnable.java" index="3">
-<position info="not_deleted" x="559" y="0"/>
-</item>
-<item historyLabel="Bank.java" index="2">
-<position info="not_deleted" x="127" y="0"/>
-</item>
-<item historyLabel="SynchBankTest2_2.java" index="1">
-<position info="not_deleted" x="496" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="604" y="0"/>
-</item>
-<item historyLabel="Allocateur.java" index="5">
-<position info="not_deleted" x="255" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="467" y="0"/>
-</item>
-<item historyLabel="TestAllocateur.java" index="6">
+<item historyLabel="Buffer.java" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Exo5.java" index="7">
-<position info="not_deleted" x="267" y="0"/>
+<item historyLabel="FramedBuffer.java" index="3">
+<position info="not_deleted" x="420" y="0"/>
 </item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="467" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="1458" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="1596" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="1593" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="1526" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
+<item historyLabel="TestFramedBuffer.java" index="4">
 <position/>
 </item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="1514" y="1"/>
+<item historyLabel="FramedBuffer.java" index="3">
+<position info="not_deleted" x="419" y="0"/>
 </item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="1590" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="1708" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="134" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="450" y="0"/>
-</item>
-<item historyLabel="SynchBankTest2_2.java" index="1">
-<position info="not_deleted" x="496" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="450" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="194" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="101" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position/>
-</item>
-<item historyLabel="SynchBankTest2.java" index="0">
-<position info="not_deleted" x="242" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="600" y="0"/>
-</item>
-<item historyLabel="Exo5.java" index="7">
-<position info="not_deleted" x="267" y="0"/>
-</item>
-<item historyLabel="SynchBankTest2_2.java" index="1">
-<position info="not_deleted" x="496" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="600" y="0"/>
-</item>
-<item historyLabel="Exo5.java" index="7">
-<position info="not_deleted" x="267" y="0"/>
-</item>
-<item historyLabel="TestAllocateur.java" index="6">
+<item historyLabel="Buffer.java" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Allocateur.java" index="5">
-<position info="not_deleted" x="255" y="0"/>
+<item historyLabel="TestFramedBuffer.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="600" y="0"/>
+<item historyLabel="FramedBuffer.java" index="3">
+<position info="not_deleted" x="419" y="0"/>
 </item>
-<item historyLabel="SynchBankTest2_2.java" index="1">
-<position info="not_deleted" x="496" y="0"/>
+<item historyLabel="FramedBuffer.java" index="3">
+<position info="not_deleted" x="196" y="0"/>
 </item>
-<item active="true" historyLabel="prod_cons.java" index="4">
-<position info="not_deleted" x="600" y="0"/>
+<item historyLabel="Buffer.java" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="FramedBuffer.java" index="3">
+<position info="not_deleted" x="196" y="0"/>
+</item>
+<item historyLabel="Buffer.java" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="FramedBuffer.java" index="3">
+<position info="not_deleted" x="196" y="0"/>
+</item>
+<item historyLabel="FramedBuffer.java" index="3">
+<position info="not_deleted" x="417" y="0"/>
+</item>
+<item historyLabel="FramedBuffer.java" index="3">
+<position info="not_deleted" x="827" y="0"/>
+</item>
+<item historyLabel="TestFramedBuffer.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="FramedBuffer.java" index="3">
+<position info="not_deleted" x="490" y="31"/>
+</item>
+<item historyLabel="FramedBuffer.java" index="3">
+<position info="not_deleted" x="689" y="0"/>
+</item>
+<item historyLabel="TestFramedBuffer.java" index="4">
+<position info="not_deleted" x="235" y="0"/>
+</item>
+<item historyLabel="TestFramedBuffer2.java" index="5">
+<position info="not_deleted" x="99" y="6"/>
+</item>
+<item historyLabel="FramedBuffer2.java" index="6">
+<position info="not_deleted" x="197" y="0"/>
+</item>
+<item historyLabel="Buffer2.java" index="7">
+<position info="not_deleted" x="137" y="0"/>
+</item>
+<item historyLabel="FramedBuffer2.java" index="6">
+<position info="not_deleted" x="197" y="0"/>
+</item>
+<item historyLabel="FramedBuffer2.java" index="6">
+<position info="not_deleted" x="865" y="0"/>
+</item>
+<item historyLabel="Buffer.java" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="FramedBuffer.java" index="3">
+<position info="not_deleted" x="521" y="0"/>
+</item>
+<item historyLabel="TestFramedBuffer.java" index="4">
+<position info="not_deleted" x="235" y="0"/>
+</item>
+<item historyLabel="FramedBuffer.java" index="3">
+<position info="not_deleted" x="521" y="0"/>
+</item>
+<item historyLabel="TestFramedBuffer.java" index="4">
+<position info="not_deleted" x="235" y="0"/>
+</item>
+<item historyLabel="Buffer.java" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="TestFramedBuffer2.java" index="5">
+<position info="not_deleted" x="99" y="6"/>
+</item>
+<item historyLabel="Buffer.java" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="TestFramedBuffer2.java" index="5">
+<position info="not_deleted" x="99" y="6"/>
+</item>
+<item historyLabel="FramedBuffer2.java" index="6">
+<position info="not_deleted" x="1284" y="0"/>
+</item>
+<item historyLabel="TestFramedBuffer2.java" index="5">
+<position info="not_deleted" x="291" y="0"/>
+</item>
+<item historyLabel="FramedBuffer2.java" index="6">
+<position info="not_deleted" x="1239" y="0"/>
+</item>
+<item historyLabel="TestFramedBuffer2.java" index="5">
+<position info="not_deleted" x="184" y="0"/>
+</item>
+<item historyLabel="FramedBuffer2.java" index="6">
+<position info="not_deleted" x="1001" y="0"/>
+</item>
+<item historyLabel="TestFramedBuffer2.java" index="5">
+<position info="not_deleted" x="165" y="0"/>
+</item>
+<item historyLabel="Buffer2.java" index="7">
+<position info="not_deleted" x="70" y="0"/>
+</item>
+<item historyLabel="FramedBuffer2.java" index="6">
+<position info="not_deleted" x="756" y="0"/>
+</item>
+<item historyLabel="Buffer2.java" index="7">
+<position info="not_deleted" x="70" y="0"/>
+</item>
+<item historyLabel="FramedBuffer2.java" index="6">
+<position info="not_deleted" x="756" y="0"/>
+</item>
+<item historyLabel="TestFramedBuffer2.java" index="5">
+<position info="not_deleted" x="165" y="0"/>
+</item>
+<item historyLabel="TestFramedBuffer2.java" index="5">
+<position info="not_deleted" x="678" y="0"/>
+</item>
+<item historyLabel="FramedBuffer2.java" index="6">
+<position info="not_deleted" x="756" y="0"/>
+</item>
+<item active="true" historyLabel="TestFramedBuffer2.java" index="5">
+<position info="not_deleted" x="678" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -656,50 +631,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exo5.java" tooltip="TD4/src/td4_correction/Exo5.java">
-<persistable path="/TD4/src/td4_correction/Exo5.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Buffer2.java" tooltip="TD6/src/td/Buffer2.java">
+<persistable path="/TD6/src/td/Buffer2.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestAllocateur.java" tooltip="TD4/src/td4_correction/TestAllocateur.java">
-<persistable path="/TD4/src/td4_correction/TestAllocateur.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FramedBuffer2.java" tooltip="TD6/src/td/FramedBuffer2.java">
+<persistable path="/TD6/src/td/FramedBuffer2.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Allocateur.java" tooltip="TD4/src/td4/Allocateur.java">
-<persistable path="/TD4/src/td4/Allocateur.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFramedBuffer2.java" tooltip="TD6/src/td/TestFramedBuffer2.java">
+<persistable path="/TD6/src/td/TestFramedBuffer2.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="prod_cons.java" tooltip="TD4/src/td4/prod_cons.java">
-<persistable path="/TD4/src/td4/prod_cons.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFramedBuffer.java" tooltip="TD6/src/td/TestFramedBuffer.java">
+<persistable path="/TD6/src/td/TestFramedBuffer.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TransferRunnable.java" tooltip="TD4/src/td4/TransferRunnable.java">
-<persistable path="/TD4/src/td4/TransferRunnable.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FramedBuffer.java" tooltip="TD6/src/td/FramedBuffer.java">
+<persistable path="/TD6/src/td/FramedBuffer.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Bank.java" tooltip="TD4/src/td4/Bank.java">
-<persistable path="/TD4/src/td4/Bank.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Buffer.java" tooltip="TD6/src/td/Buffer.java">
+<persistable path="/TD6/src/td/Buffer.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SyncBankTest2_2.java" tooltip="TD4/src/td4/SyncBankTest2_2.java">
-<persistable path="/TD4/src/td4/SyncBankTest2_2.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exo1.java" tooltip="TD6/src/td7/correct/Exo1.java">
+<persistable path="/TD6/src/td7/correct/Exo1.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Banque.java" tooltip="Banque/src/Banque.java">
-<persistable path="/Banque/src/Banque.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exo1_2.java" tooltip="TD6/src/td7/correct/Exo1_2.java">
+<persistable path="/TD6/src/td7/correct/Exo1_2.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exo3.java" tooltip="TD4/src/td4_correction/Exo3.java">
-<persistable path="/TD4/src/td4_correction/Exo3.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exo2.java" tooltip="TD6/src/td7/correct/Exo2.java">
+<persistable path="/TD6/src/td7/correct/Exo2.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Ex1_0.java" tooltip="TD4/src/exemplesCours/Ex1_0.java">
-<persistable path="/TD4/src/exemplesCours/Ex1_0.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exo2_2.java" tooltip="TD6/src/td7/correct/Exo2_2.java">
+<persistable path="/TD6/src/td7/correct/Exo2_2.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Ex3_BoundedBuffer.java" tooltip="TD4/src/exemplesCours/Ex3_BoundedBuffer.java">
-<persistable path="/TD4/src/exemplesCours/Ex3_BoundedBuffer.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TD6_2.java" tooltip="TD6/src/td7/exo/etudiant/TD6_2.java">
+<persistable path="/TD6/src/td7/exo/etudiant/TD6_2.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SemaphoreBasic.java" tooltip="TD4/src/td4/SemaphoreBasic.java">
-<persistable path="/TD4/src/td4/SemaphoreBasic.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exo2_BI.java" tooltip="TD6/src/td7/exo/etudiant/Exo2_BI.java">
+<persistable path="/TD6/src/td7/exo/etudiant/Exo2_BI.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SynchBankTest2.java" tooltip="TD4/src/td4/SynchBankTest2.java">
-<persistable path="/TD4/src/td4/SynchBankTest2.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Reveil2.java" tooltip="TD6/src/td7/exo/etudiant/Reveil2.java">
+<persistable path="/TD6/src/td7/exo/etudiant/Reveil2.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UnThreadRess.java" tooltip="TD4/src/td4_correction/UnThreadRess.java">
-<persistable path="/TD4/src/td4_correction/UnThreadRess.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Reveil.java" tooltip="TD6/src/exemples/Reveil.java">
+<persistable path="/TD6/src/exemples/Reveil.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Allocateur.java" tooltip="TD4/src/td4_correction/Allocateur.java">
-<persistable path="/TD4/src/td4_correction/Allocateur.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DelayedTask.java" tooltip="TD6/src/exemples/DelayedTask.java">
+<persistable path="/TD6/src/exemples/DelayedTask.java"/>
 </file>
 </mruList>
 </workbench>

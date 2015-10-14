@@ -27,11 +27,21 @@
 <fullyQualifiedTypeName name="exemplesCours.Ex3_Thread"/>
 <fullyQualifiedTypeName name="javax.swing.BoundedRangeModel"/>
 <fullyQualifiedTypeName name="exemplesCours.Ex3_BoundedBuffer"/>
-<fullyQualifiedTypeName name="java.util.concurrent.Semaphore"/>
 <fullyQualifiedTypeName name="td4.buffer1"/>
-<fullyQualifiedTypeName name="java.lang.Object"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="td4.prod_cons.buffer1.Prod"/>
 <fullyQualifiedTypeName name="td4.prod_cons.buffer1"/>
 <fullyQualifiedTypeName name="td4.prod_cons.buffer1.Cons"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionEvent"/>
+<fullyQualifiedTypeName name="exemples.MyTimer2"/>
+<fullyQualifiedTypeName name="javax.swing.Timer"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.TimeZone"/>
+<fullyQualifiedTypeName name="java.util.TimerTask"/>
+<fullyQualifiedTypeName name="java.util.Timer"/>
+<fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Semaphore"/>
 </qualifiedTypeNameHistroy>

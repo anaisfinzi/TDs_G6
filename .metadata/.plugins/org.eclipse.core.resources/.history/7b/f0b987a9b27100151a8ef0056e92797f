@@ -1,0 +1,16 @@
+package td;
+
+/**
+ * @author fcamps
+ *
+ */
+
+public interface Buffer2 {
+
+	public void deposer(Object o);
+	
+	public Object prelever();
+}
+
+
+
