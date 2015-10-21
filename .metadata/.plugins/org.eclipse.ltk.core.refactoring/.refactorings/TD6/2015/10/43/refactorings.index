@@ -1,0 +1,13 @@
+1445351767211	Delete elements
+1445351905213	Rename type 'Buffer'
+1445351918009	Rename type 'FramedBuffer'
+1445351933261	Rename type 'TestFramedBuffer'
+1445351942504	Rename type 'Ex3_1_Buffer'
+1445351952230	Rename type 'Ex3_1_FramedBuffer'
+1445351997954	Rename type 'BufferN'
+1445352010853	Rename type 'FramedBufferN'
+1445352021431	Rename type 'TestFramedNBuffer'
+1445352053781	Rename type 'SimpleBuffer'
+1445352065731	Rename type 'TestSimpleBuffer'
+1445418127161	Rename type 'LecteurRedacteurAvecMoniteur'
+1445418143079	Rename type 'TestLecteurRedacteurMoniteur'
