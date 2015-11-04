@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="18" version="2.0">
+<workbench progressCount="19" version="2.0">
 <workbenchAdvisor/>
 <window height="767" maximized="true" width="1018" x="494" y="24">
 <fastViewData fastViewLocation="1024"/>
@@ -39,55 +39,25 @@
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
-<part id="9"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="prod_cons.java" partName="prod_cons.java" path="/home/anais/workspace2A/TD4/src/td4/prod_cons.java" title="prod_cons.java" tooltip="TD4/src/td4/prod_cons.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD4/src/td4/prod_cons.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1425" selectionTopPixel="1101"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exo3_1_TestFramedBuffer.java" partName="Exo3_1_TestFramedBuffer.java" path="/home/anais/workspace2A/TD6/src/td7/correct/Exo3_1_TestFramedBuffer.java" title="Exo3_1_TestFramedBuffer.java" tooltip="TD6/src/td7/correct/Exo3_1_TestFramedBuffer.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD6/src/td7/correct/Exo3_1_TestFramedBuffer.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="98" selectionTopPixel="585"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Buffer.java" partName="Buffer.java" path="/home/anais/workspace2A/TD6/src/td/Buffer.java" title="Buffer.java" tooltip="TD6/src/td/Buffer.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD6/src/td/Buffer.java"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PhiloSem.java" partName="PhiloSem.java" path="/home/anais/workspace2A/philosophes/src/PhiloSem.java" title="PhiloSem.java" tooltip="philosophes/src/PhiloSem.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/philosophes/src/PhiloSem.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exo3_1_Buffer.java" partName="Exo3_1_Buffer.java" path="/home/anais/workspace2A/TD6/src/td7/correct/Exo3_1_Buffer.java" title="Exo3_1_Buffer.java" tooltip="TD6/src/td7/correct/Exo3_1_Buffer.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD6/src/td7/correct/Exo3_1_Buffer.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PhiloSemBase.java" partName="PhiloSemBase.java" path="/home/anais/workspace2A/philosophes/src/PhiloSemBase.java" title="PhiloSemBase.java" tooltip="philosophes/src/PhiloSemBase.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/philosophes/src/PhiloSemBase.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="323" selectionTopPixel="449"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LecteurRedacteur.java" partName="LecteurRedacteur.java" path="/home/anais/workspace2A/TD6/src/td7/correct/LecteurRedacteur.java" title="LecteurRedacteur.java" tooltip="TD6/src/td7/correct/LecteurRedacteur.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD6/src/td7/correct/LecteurRedacteur.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="130" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PhiloSemFourchDissym.java" partName="PhiloSemFourchDissym.java" path="/home/anais/workspace2A/philosophes/src/PhiloSemFourchDissym.java" title="PhiloSemFourchDissym.java" tooltip="philosophes/src/PhiloSemFourchDissym.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/philosophes/src/PhiloSemFourchDissym.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="500"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LecteurRedacteurAvecMoniteur.java" partName="LecteurRedacteurAvecMoniteur.java" path="/home/anais/workspace2A/TD6/src/td7/correct/LecteurRedacteurAvecMoniteur.java" title="LecteurRedacteurAvecMoniteur.java" tooltip="TD6/src/td7/correct/LecteurRedacteurAvecMoniteur.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD6/src/td7/correct/LecteurRedacteurAvecMoniteur.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LecteurRedacteurInt.java" partName="LecteurRedacteurInt.java" path="/home/anais/workspace2A/TD6/src/td7/correct/LecteurRedacteurInt.java" title="LecteurRedacteurInt.java" tooltip="TD6/src/td7/correct/LecteurRedacteurInt.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD6/src/td7/correct/LecteurRedacteurInt.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="133" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LecteurRedacteurPrioEgale.java" partName="LecteurRedacteurPrioEgale.java" path="/home/anais/workspace2A/TD6/src/td7/correct/LecteurRedacteurPrioEgale.java" title="LecteurRedacteurPrioEgale.java" tooltip="TD6/src/td7/correct/LecteurRedacteurPrioEgale.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD6/src/td7/correct/LecteurRedacteurPrioEgale.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="95" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestLecteurRedacteur.java" partName="TestLecteurRedacteur.java" path="/home/anais/workspace2A/TD6/src/td7/correct/TestLecteurRedacteur.java" title="TestLecteurRedacteur.java" tooltip="TD6/src/td7/correct/TestLecteurRedacteur.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD6/src/td7/correct/TestLecteurRedacteur.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestLecteurRedacteurMoniteur.java" partName="TestLecteurRedacteurMoniteur.java" path="/home/anais/workspace2A/TD6/src/td7/correct/TestLecteurRedacteurMoniteur.java" title="TestLecteurRedacteurMoniteur.java" tooltip="TD6/src/td7/correct/TestLecteurRedacteurMoniteur.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TD6/src/td7/correct/TestLecteurRedacteurMoniteur.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="63" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PhiloSemFourchTable.java" partName="PhiloSemFourchTable.java" path="/home/anais/workspace2A/philosophes/src/PhiloSemFourchTable.java" title="PhiloSemFourchTable.java" tooltip="philosophes/src/PhiloSemFourchTable.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/philosophes/src/PhiloSemFourchTable.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="840" selectionTopPixel="224"/>
 </editor>
 </editors>
 <views>
@@ -130,7 +100,6 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Errors"/>
 <category IMemento.internal.id="Warnings (18 items)"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="685" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
@@ -489,18 +458,8 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/Buffer.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/FramedBuffer.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/TestFramedBuffer.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/TestFramedBuffer2.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/FramedBuffer2.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/Buffer2.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/FramedBuffer2.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/Buffer2.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD4/src/td4/prod_cons.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/exo/etudiant/Buffer.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/exo/etudiant/FramedBuffer.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/exo/etudiant/TestFramedBuffer.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/correct/Exo3_1_TestFramedBuffer.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/correct/Exo3_3_SimpleBuffer.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td/Buffer.java"/>
@@ -511,154 +470,171 @@
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/correct/LecteurRedacteurPrioEgale.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/correct/TestLecteurRedacteur.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/correct/TestLecteurRedacteurMoniteur.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/correct/LecteurRedacteurAvecMoniteur.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/correct/LecteurRedacteurPrioEgale.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/correct/LecteurRedacteurInt.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/correct/Exo5LecteurRedacteurAvecMoniteur.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/correct/Exo5_TestLecteurRedacteurMoniteur.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/correct/LecteurRedacteur.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/correct/LecteurRedacteurPrioEgale.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TD6/src/td7/correct/LecteurRedacteur.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/voieUnique/src/TrafficController.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/voieUnique/src/SafeTrafficController.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/voieUnique/src/FairTrafficController.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/philosophes/src/PhiloSem.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/philosophes/src/PhiloSemBase.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/philosophes/src/PhiloSemFourchDissym.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/philosophes/src/PhiloSemFourchTable.java"/>
 </editors>
-<item historyLabel="FramedBuffer.java" index="1">
-<position info="not_deleted" x="521" y="0"/>
-</item>
-<item historyLabel="TestFramedBuffer.java" index="2">
-<position info="not_deleted" x="235" y="0"/>
-</item>
-<item historyLabel="FramedBuffer.java" index="1">
-<position info="not_deleted" x="521" y="0"/>
-</item>
-<item historyLabel="TestFramedBuffer.java" index="2">
-<position info="not_deleted" x="235" y="0"/>
-</item>
 <item historyLabel="Buffer.java" index="0">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="TestFramedBuffer2.java" index="3">
-<position info="not_deleted" x="99" y="6"/>
-</item>
-<item historyLabel="Buffer.java" index="0">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="TestFramedBuffer2.java" index="3">
-<position info="not_deleted" x="99" y="6"/>
-</item>
-<item historyLabel="FramedBuffer2.java" index="4">
-<position info="not_deleted" x="1284" y="0"/>
-</item>
-<item historyLabel="TestFramedBuffer2.java" index="3">
-<position info="not_deleted" x="291" y="0"/>
-</item>
-<item historyLabel="FramedBuffer2.java" index="4">
-<position info="not_deleted" x="1239" y="0"/>
-</item>
-<item historyLabel="TestFramedBuffer2.java" index="3">
-<position info="not_deleted" x="184" y="0"/>
-</item>
-<item historyLabel="FramedBuffer2.java" index="4">
-<position info="not_deleted" x="1001" y="0"/>
-</item>
-<item historyLabel="TestFramedBuffer2.java" index="3">
-<position info="not_deleted" x="165" y="0"/>
-</item>
-<item historyLabel="Buffer2.java" index="5">
-<position info="not_deleted" x="70" y="0"/>
-</item>
-<item historyLabel="FramedBuffer2.java" index="4">
-<position info="not_deleted" x="756" y="0"/>
-</item>
-<item historyLabel="Buffer2.java" index="5">
-<position info="not_deleted" x="70" y="0"/>
-</item>
-<item historyLabel="FramedBuffer2.java" index="4">
-<position info="not_deleted" x="756" y="0"/>
-</item>
-<item historyLabel="TestFramedBuffer2.java" index="3">
-<position info="not_deleted" x="165" y="0"/>
-</item>
-<item historyLabel="TestFramedBuffer2.java" index="3">
-<position info="not_deleted" x="678" y="0"/>
-</item>
-<item historyLabel="FramedBuffer2.java" index="4">
-<position info="not_deleted" x="756" y="0"/>
-</item>
-<item historyLabel="TestFramedBuffer2.java" index="3">
-<position info="not_deleted" x="280" y="0"/>
-</item>
-<item historyLabel="FramedBuffer2.java" index="6"/>
-<item historyLabel="Buffer2.java" index="7">
-<position info="not_deleted" x="70" y="0"/>
-</item>
-<item historyLabel="prod_cons.java" index="8">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Buffer.java" index="9">
 <position info="not_deleted" x="0" y="25"/>
 </item>
-<item historyLabel="FramedBuffer.java" index="10">
-<position info="not_deleted" x="25" y="0"/>
-</item>
-<item historyLabel="TestFramedBuffer.java" index="11">
-<position info="not_deleted" x="70" y="0"/>
-</item>
-<item historyLabel="Buffer.java" index="9">
-<position info="not_deleted" x="0" y="25"/>
-</item>
-<item historyLabel="FramedBuffer.java" index="10">
+<item historyLabel="FramedBuffer.java" index="1">
 <position info="not_deleted" x="313" y="0"/>
 </item>
-<item historyLabel="Buffer.java" index="9">
+<item historyLabel="Buffer.java" index="0">
 <position info="not_deleted" x="0" y="25"/>
 </item>
-<item historyLabel="Exo3_1_TestFramedBuffer.java" index="12">
+<item historyLabel="Exo3_1_TestFramedBuffer.java" index="2">
 <position info="not_deleted" x="98" y="0"/>
 </item>
-<item historyLabel="Exo3_3_SimpleBuffer.java" index="13">
+<item historyLabel="Exo3_3_SimpleBuffer.java" index="3">
 <position/>
 </item>
-<item historyLabel="Buffer.java" index="14">
+<item historyLabel="Buffer.java" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Exo3_3_SimpleBuffer.java" index="13">
+<item historyLabel="Exo3_3_SimpleBuffer.java" index="3">
 <position/>
 </item>
-<item historyLabel="Exo3_1_Buffer.java" index="15">
+<item historyLabel="Exo3_1_Buffer.java" index="5">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Exo3_3_SimpleBuffer.java" index="13">
+<item historyLabel="Exo3_3_SimpleBuffer.java" index="3">
 <position/>
 </item>
-<item historyLabel="Exo3_1_Buffer.java" index="15">
+<item historyLabel="Exo3_1_Buffer.java" index="5">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Exo3_3_SimpleBuffer.java" index="13">
+<item historyLabel="Exo3_3_SimpleBuffer.java" index="3">
 <position info="not_deleted" x="74" y="0"/>
 </item>
-<item historyLabel="Exo3_1_Buffer.java" index="15">
+<item historyLabel="Exo3_1_Buffer.java" index="5">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="LecteurRedacteur.java" index="16">
+<item historyLabel="LecteurRedacteur.java" index="6">
 <position info="not_deleted" x="130" y="0"/>
 </item>
-<item historyLabel="LecteurRedacteurAvecMoniteur.java" index="17">
+<item historyLabel="LecteurRedacteurAvecMoniteur.java" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="LecteurRedacteurInt.java" index="18">
+<item historyLabel="LecteurRedacteurInt.java" index="8">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="LecteurRedacteurPrioEgale.java" index="19">
+<item historyLabel="LecteurRedacteurPrioEgale.java" index="9">
 <position info="not_deleted" x="95" y="0"/>
 </item>
-<item historyLabel="LecteurRedacteurInt.java" index="18">
+<item historyLabel="LecteurRedacteurInt.java" index="8">
 <position info="not_deleted" x="133" y="0"/>
 </item>
-<item historyLabel="LecteurRedacteurAvecMoniteur.java" index="17">
+<item historyLabel="LecteurRedacteurAvecMoniteur.java" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="TestLecteurRedacteur.java" index="20">
+<item historyLabel="TestLecteurRedacteur.java" index="10">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="TestLecteurRedacteurMoniteur.java" index="21">
+<item historyLabel="TestLecteurRedacteurMoniteur.java" index="11">
 <position info="not_deleted" x="63" y="0"/>
 </item>
-<item historyLabel="TestLecteurRedacteur.java" index="20">
+<item historyLabel="TestLecteurRedacteur.java" index="10">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item active="true" historyLabel="TestLecteurRedacteurMoniteur.java" index="21">
+<item historyLabel="TestLecteurRedacteurMoniteur.java" index="11">
 <position info="not_deleted" x="63" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteurAvecMoniteur.java" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteurPrioEgale.java" index="13">
+<position info="not_deleted" x="534" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteurAvecMoniteur.java" index="12">
+<position info="not_deleted" x="545" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteurInt.java" index="14">
+<position info="not_deleted" x="133" y="0"/>
+</item>
+<item historyLabel="Exo5LecteurRedacteurAvecMoniteur.java" index="15">
+<position info="not_deleted" x="545" y="0"/>
+</item>
+<item historyLabel="Exo5LecteurRedacteurAvecMoniteur.java" index="15">
+<position info="not_deleted" x="549" y="0"/>
+</item>
+<item historyLabel="Exo5_TestLecteurRedacteurMoniteur.java" index="16">
+<position info="not_deleted" x="62" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteurPrioEgale.java" index="13">
+<position info="not_deleted" x="586" y="0"/>
+</item>
+<item historyLabel="Exo5LecteurRedacteurAvecMoniteur.java" index="15">
+<position info="not_deleted" x="274" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteurPrioEgale.java" index="13">
+<position info="not_deleted" x="586" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteurInt.java" index="14">
+<position info="not_deleted" x="245" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteur.java" index="17">
+<position info="not_deleted" x="130" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteurInt.java" index="14">
+<position info="not_deleted" x="245" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteurPrioEgale.java" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteur.java" index="17">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteurPrioEgale.java" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteur.java" index="17">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteurPrioEgale.java" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="LecteurRedacteur.java" index="19">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="TrafficController.java" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="SafeTrafficController.java" index="21">
+<position info="not_deleted" x="831" y="0"/>
+</item>
+<item historyLabel="FairTrafficController.java" index="22">
+<position info="not_deleted" x="1323" y="0"/>
+</item>
+<item historyLabel="SafeTrafficController.java" index="21">
+<position info="not_deleted" x="831" y="0"/>
+</item>
+<item historyLabel="TrafficController.java" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="PhiloSem.java" index="23">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="PhiloSemBase.java" index="24">
+<position info="not_deleted" x="323" y="0"/>
+</item>
+<item historyLabel="PhiloSemFourchDissym.java" index="25">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="PhiloSemFourchTable.java" index="26">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -677,14 +653,38 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PhiloSemFourchTable.java" tooltip="philosophes/src/PhiloSemFourchTable.java">
+<persistable path="/philosophes/src/PhiloSemFourchTable.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PhiloSemFourchDissym.java" tooltip="philosophes/src/PhiloSemFourchDissym.java">
+<persistable path="/philosophes/src/PhiloSemFourchDissym.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PhiloSemBase.java" tooltip="philosophes/src/PhiloSemBase.java">
+<persistable path="/philosophes/src/PhiloSemBase.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PhiloSem.java" tooltip="philosophes/src/PhiloSem.java">
+<persistable path="/philosophes/src/PhiloSem.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FairTrafficController.java" tooltip="voieUnique/src/FairTrafficController.java">
+<persistable path="/voieUnique/src/FairTrafficController.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SafeTrafficController.java" tooltip="voieUnique/src/SafeTrafficController.java">
+<persistable path="/voieUnique/src/SafeTrafficController.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TrafficController.java" tooltip="voieUnique/src/TrafficController.java">
+<persistable path="/voieUnique/src/TrafficController.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LecteurRedacteur.java" tooltip="TD6/src/td7/correct/LecteurRedacteur.java">
+<persistable path="/TD6/src/td7/correct/LecteurRedacteur.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LecteurRedacteurPrioEgale.java" tooltip="TD6/src/td7/correct/LecteurRedacteurPrioEgale.java">
+<persistable path="/TD6/src/td7/correct/LecteurRedacteurPrioEgale.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestLecteurRedacteurMoniteur.java" tooltip="TD6/src/td7/correct/TestLecteurRedacteurMoniteur.java">
 <persistable path="/TD6/src/td7/correct/TestLecteurRedacteurMoniteur.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestLecteurRedacteur.java" tooltip="TD6/src/td7/correct/TestLecteurRedacteur.java">
 <persistable path="/TD6/src/td7/correct/TestLecteurRedacteur.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LecteurRedacteurPrioEgale.java" tooltip="TD6/src/td7/correct/LecteurRedacteurPrioEgale.java">
-<persistable path="/TD6/src/td7/correct/LecteurRedacteurPrioEgale.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LecteurRedacteurInt.java" tooltip="TD6/src/td7/correct/LecteurRedacteurInt.java">
 <persistable path="/TD6/src/td7/correct/LecteurRedacteurInt.java"/>
@@ -692,35 +692,11 @@
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LecteurRedacteurAvecMoniteur.java" tooltip="TD6/src/td7/correct/LecteurRedacteurAvecMoniteur.java">
 <persistable path="/TD6/src/td7/correct/LecteurRedacteurAvecMoniteur.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LecteurRedacteur.java" tooltip="TD6/src/td7/correct/LecteurRedacteur.java">
-<persistable path="/TD6/src/td7/correct/LecteurRedacteur.java"/>
-</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exo3_3_SimpleBuffer.java" tooltip="TD6/src/td7/correct/Exo3_3_SimpleBuffer.java">
 <persistable path="/TD6/src/td7/correct/Exo3_3_SimpleBuffer.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exo3_1_Buffer.java" tooltip="TD6/src/td7/correct/Exo3_1_Buffer.java">
 <persistable path="/TD6/src/td7/correct/Exo3_1_Buffer.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Buffer.java" tooltip="TD6/src/td/Buffer.java">
-<persistable path="/TD6/src/td/Buffer.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exo3_1_TestFramedBuffer.java" tooltip="TD6/src/td7/correct/Exo3_1_TestFramedBuffer.java">
-<persistable path="/TD6/src/td7/correct/Exo3_1_TestFramedBuffer.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFramedBuffer.java" tooltip="TD6/src/td7/exo/etudiant/TestFramedBuffer.java">
-<persistable path="/TD6/src/td7/exo/etudiant/TestFramedBuffer.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FramedBuffer.java" tooltip="TD6/src/td7/exo/etudiant/FramedBuffer.java">
-<persistable path="/TD6/src/td7/exo/etudiant/FramedBuffer.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Buffer.java" tooltip="TD6/src/td7/exo/etudiant/Buffer.java">
-<persistable path="/TD6/src/td7/exo/etudiant/Buffer.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="prod_cons.java" tooltip="TD4/src/td4/prod_cons.java">
-<persistable path="/TD4/src/td4/prod_cons.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Buffer2.java" tooltip="TD6/src/td/Buffer2.java">
-<persistable path="/TD6/src/td/Buffer2.java"/>
 </file>
 </mruList>
 </workbench>

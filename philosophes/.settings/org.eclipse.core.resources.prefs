@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/IHMArgs.java=UTF-8
+encoding//src/IHMChoixNombre.java=UTF-8
+encoding//src/IHMParametres.java=UTF-8
+encoding//src/IHMPhilo.java=UTF-8
+encoding//src/Main.java=UTF-8
+encoding//src/PhiloSem.java=UTF-8
+encoding//src/PhiloSemBase.java=UTF-8
+encoding//src/PhiloSemFourchDissym.java=UTF-8
+encoding//src/PhiloSemFourchTable.java=UTF-8
+encoding//src/PhiloSemOptimale.java=UTF-8
+encoding//src/ProcessusPhilosophe.java=UTF-8
+encoding//src/StrategiePhilo.java=UTF-8
+encoding//src/Synchro/Assert.java=UTF-8
+encoding//src/Synchro/AssertionViolation.java=UTF-8
+encoding//src/Synchro/Simulateur.java=UTF-8
